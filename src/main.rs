@@ -177,3 +177,4 @@ fn st(ra: u16, addr: u16) -> u16 {
 fn hlt() -> u16 {
      (HLT << 11)
 }
+
