@@ -1,0 +1,33 @@
+vsim -gui work.cpu15_sim
+# vsim -gui work.cpu15_sim 
+# Start time: 09:50:04 on May 04,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.cpu15_sim(sim)
+# Loading work.clk_gen(rtl)
+# Loading work.fetch(rtl)
+# Loading work.decode(rtl)
+# Loading work.reg_dc(rtl)
+# Loading work.ram_dc(rtl)
+# Loading work.exec(rtl)
+# Loading work.reg_wb(rtl)
+# Loading work.ram_wb(rtl)
+add wave -position end  sim:/cpu15_sim/CLK
+add wave -position end  sim:/cpu15_sim/RESET_N
+add wave -position end  sim:/cpu15_sim/CLK_FT
+add wave -position end  sim:/cpu15_sim/CLK_DC
+add wave -position end  sim:/cpu15_sim/CLK_EX
+add wave -position end  sim:/cpu15_sim/CLK_WB
+add wave -position end  sim:/cpu15_sim/P_COUNT
+add wave -position end  sim:/cpu15_sim/PROM_OUT
+add wave -position end  sim:/cpu15_sim/REG_0
+add wave -position end  sim:/cpu15_sim/REG_1
+add wave -position end  sim:/cpu15_sim/REG_2
+add wave -position end  sim:/cpu15_sim/REG_3
+add wave -position end  sim:/cpu15_sim/IO64_OUT
+run
+# End time: 10:24:56 on May 04,2021, Elapsed time: 0:34:52
+# Errors: 0, Warnings: 0

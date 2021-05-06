@@ -1,0 +1,82 @@
+C:/Users/taisa/Documents/cpufolder/cpu15/exec.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/exec.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity exec
+-- Compiling architecture RTL of exec
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/cpu15_sim.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/cpu15_sim.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cpu15_sim
+-- Compiling architecture SIM of cpu15_sim
+** Warning: C:/Users/taisa/Documents/cpufolder/cpu15/cpu15_sim.vhd(318): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/fetch.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/fetch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity fetch
+-- Compiling architecture RTL of fetch
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/ram_dc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/ram_dc.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ram_dc
+-- Compiling architecture RTL of ram_dc
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/reg_wb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/reg_wb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg_wb
+-- Compiling architecture RTL of reg_wb
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/clk_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/clk_gen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity clk_gen
+-- Compiling architecture RTL of clk_gen
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/decode.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/decode.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decode
+-- Compiling architecture RTL of decode
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/ram_wb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/ram_wb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ram_wb
+-- Compiling architecture RTL of ram_wb
+
+} {} {}} C:/Users/taisa/Documents/cpufolder/cpu15/reg_dc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/taisa/Documents/cpufolder/cpu15/reg_dc.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg_dc
+-- Compiling architecture RTL of reg_dc
+
+} {} {}}

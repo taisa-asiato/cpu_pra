@@ -338,3 +338,13 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+cpu08/*/db
+cpu08/*/incremental_db
+cpu08/*/output_files
+cpu08/*/work
+cpu08/*/*.bak
+cpu08/*/*.qpf
+cpu08/*/*.qsf
+cpu08/*/*.qws
+cpu08/*/*.txt
